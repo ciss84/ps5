@@ -70,6 +70,15 @@
             color: #2F3335;
         }
 
+        .log {
+            display: block;
+            unicode-bidi: embed;
+            font-family: monospace;
+            white-space: pre;
+            font-size: 18px;
+            width: 0%;
+            height: 0%;
+        }
     </style>
     <script>
         function allset() {
@@ -88,7 +97,6 @@
 </head>
 
 </html>
-
 <body onload="setTimeout(poc, 1500);">
 
     <div id="loader" class="loader"></div>
@@ -99,13 +107,13 @@
     </div>
 
     <div id="allset" class="info" style="display:none;">
-        You're all set!
+        Awaiting Payload...
     </div>
-
+    <textarea id="console" class="log"></textarea>
     <center>
         <h3>
 		<a style='font-size:25px;text-align:center;color:white;'>
-          NIGHT KING - PS5 Kernel Exploit (3.xx-4.xx) v1.02<a style='font-size:25px;text-align:center;color:#FFD700;'>
+          NIGHT KING - PS5 Kernel Exploit (3.xx & 4.xx) v1.02<a style='font-size:25px;text-align:center;color:#FFD700;'>
        <br><br>
         <br>
         Main Owner : <a style='font-size:25px;text-align:center;color:white;'>
@@ -128,6 +136,9 @@
     </center>
 
 </body>
+<script>
+
+</script>
 <script type="text/javascript">
  if(localStorage.getItem("theme")==null){
    localStorage.setItem("theme","1.jpg")
