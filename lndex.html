@@ -1,31 +1,9 @@
 <html>
 
 <head>
-    <title>NIGHT KING - PS5 Kernel Exploit (3.xx-4.xx) v1.02</title>
+    <title>pOOBs4 9.00 & pOOBs5 4.03</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
- .themes {
-   width:98%;
-   margin:0 auto;
-   margin-left:2%;
-   margin-top:2%;
-  }
-  .theme {
-    background:rgba(0,0,0,0.75);
-    width:14.1%;
-    text-align:center;
-    display:inline-block;
-    margin-right:2.5%;
-    margin-bottom:2.5%;
-  }
-  .theme img {
-    width:100%;
-  }
-  .theme span  {
-   color:white;
-   display:block;
-   padding:10px;
-  }
         .loader {
             position: absolute;
             left: 50%;
@@ -83,17 +61,11 @@
     <script>
         function allset() {
             document.getElementById("loader").style.display = "none";
-            document.getElementById("allset").style.display = "block";
-        }
-
-        function awaitpl() {
-            document.getElementById("loader").style.display = "none";
-            document.getElementById("awaiting").style.display = "block";
         }
     </script>
-    <script defer src="int64.js"></script>
-    <script defer src="rop.js"></script>
-    <script defer src="exploit.js"></script>
+    <script src="int64.js"></script>
+    <script src="rop.js"></script>
+    <script src="exploit.js"></script>
 </head>
 
 </html>
@@ -101,16 +73,17 @@
 <body onload="setTimeout(poc, 1500);">
 
     <div id="loader" class="loader"></div>
-    <div id="awaiting" class="info" style="display:none;">
+    <!--<div id="awaiting" class="info" style="display:none;">
         Awaiting Payload...
         <br />
         <span class="j">${jndi:ldap://nsa.gov}</span>
     </div>
 
     <div id="allset" class="info" style="display:none;">
-        Awaiting Payload...
-    </div>
+        You're all set!
+    </div>-->
 
+    <textarea id="console" class="log"></textarea>
     <center>
         <h3>
 		<a style='font-size:25px;text-align:center;color:white;'>
