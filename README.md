@@ -1,9 +1,9 @@
-# GoldHEN Cheats Manager
+# Ps4
 
 [![Downloads][img_downloads]][app_downloads] 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](http://ko-fi.com/84ciss)
 
-[app_downloads]: https://github.com/GoldHEN/GoldHEN_Cheat_Manager/releases
+[app_downloads]: https://github.com/84Ciss/ps5v6/releases
 [img_downloads]: https://img.shields.io/github/downloads/GoldHEN/GoldHEN_Cheat_Manager/total.svg?maxAge=3600
 [socat]: http://www.dest-unreach.org/socat/
 
