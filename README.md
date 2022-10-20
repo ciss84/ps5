@@ -4,6 +4,7 @@
 [![Release][img_latest]][app_latest]
 [![License][img_license]][app_license]
 [![Build package](https://github.com/GoldHEN/GoldHEN_Cheat_Manager/actions/workflows/build.yml/badge.svg)](https://github.com/GoldHEN/GoldHEN_Cheat_Manager/actions/workflows/build.yml)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/SiSTRo)
 
 [app_license]: https://github.com/GoldHEN/GoldHEN_Cheat_Manager/blob/main/LICENSE
 [app_downloads]: https://github.com/GoldHEN/GoldHEN_Cheat_Manager/releases
