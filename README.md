@@ -9,7 +9,7 @@
 [app_license]: https://github.com/GoldHEN/GoldHEN_Cheat_Manager/blob/main/LICENSE
 [app_downloads]: https://github.com/GoldHEN/GoldHEN_Cheat_Manager/releases
 [app_latest]: https://github.com/GoldHEN/GoldHEN_Cheat_Manager/releases/latest
-[app_coffee]: https://github.com/GoldHEN/GoldHEN_Cheat_Manager/releases/latest
+[app_coffee]: https://github.com/GoldHEN/GoldHEN_Cheat_Manager/releases/coffee
 [img_license]: https://img.shields.io/github/license/GoldHEN/GoldHEN_Cheat_Manager.svg?maxAge=2592000
 [img_downloads]: https://img.shields.io/github/downloads/GoldHEN/GoldHEN_Cheat_Manager/total.svg?maxAge=3600
 [img_latest]: https://img.shields.io/github/release/GoldHEN/GoldHEN_Cheat_Manager.svg?maxAge=3600
