@@ -4,7 +4,7 @@
 [![Release][img_latest]][app_latest]
 [![License][img_license]][app_license]
 [![Build package](https://github.com/GoldHEN/GoldHEN_Cheat_Manager/actions/workflows/build.yml/badge.svg)](https://github.com/GoldHEN/GoldHEN_Cheat_Manager/actions/workflows/build.yml)
-[![coffee]()[img_license]][app_license]
+[![coffee][img_license]][app_license]
 
 [app_license]: https://github.com/GoldHEN/GoldHEN_Cheat_Manager/blob/main/LICENSE
 [app_downloads]: https://github.com/GoldHEN/GoldHEN_Cheat_Manager/releases
